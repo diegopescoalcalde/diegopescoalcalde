@@ -18,6 +18,11 @@ My credentials include a Mechanical Engineer graduation in Federal University of
 * **How the increase of killings by Police officers impacts violence rates in Rio de Janeiro:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/How_the_increase_of_killings_by_Police_officers_impacts_violence_rates_in_Rio_de_Janeiro.ipynb)
 * **Custom Dashboard to Monitor COVID-19:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Custom_Dashboard_to_Monitor_COVID_19.ipynb)
 * **Credit Card Fraud Detection using Machine Learning Models:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Credit_Card_Fraud_Detection.ipynb)
+
+## Projetos (Português):
+
+* **Retenção de Talentos com Inteligência Artificial** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/An%C3%A1lise_de_Dados_de_RH_para_Reten%C3%A7%C3%A3o_de_Talentos.ipynb)
+
 ---
 
 
