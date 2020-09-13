@@ -20,6 +20,7 @@ I am the founder of Metrica and work consistently to make the power of Data Scie
 * **How the increase of killings by Police officers impacts violence rates in Rio de Janeiro:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/How_the_increase_of_killings_by_Police_officers_impacts_violence_rates_in_Rio_de_Janeiro.ipynb)
 * **Custom Dashboard to Monitor COVID-19:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Custom_Dashboard_to_Monitor_COVID_19.ipynb)
 * **Credit Card Fraud Detection using Machine Learning Models:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Credit_Card_Fraud_Detection.ipynb)
+* **Churn Prediction for Telecom Company:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Churn_Prediction_for_Telecom_Company.ipynb)
 
 ## Projetos (Português):
 
