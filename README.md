@@ -5,6 +5,8 @@ As an experienced Engineer and Six Sigma Black Belt I combine analytical skills,
 
 My credentials include a Mechanical Engineer graduation in Federal University of Santa Catarina (UFSC), with scholarships and academic recognitions in University of California, Davis and in Sapienza University of Rome, as well as experience in product development, cost and quality optimization and strategic planning projects in India, Italy, Poland, United States and Brazil.
 
+I am the founder of Metrica and work consistently to make the power of Data Science available to every business. Visit our website at www.metricabi.com.br
+
 **Background in:** Python, Machine Learning, Six Sigma, Design of Experiments and Product Development.
 
 **Links:**
