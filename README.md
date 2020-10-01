@@ -7,11 +7,12 @@ My credentials include a Mechanical Engineer graduation in Federal University of
 
 I am the founder of Metrica and work consistently to make the power of Data Science available to every business. Visit our website at www.metricabi.com.br
 
-**Background in:** Python, Machine Learning, Six Sigma, Design of Experiments and Product Development.
+**Background in:** Python, Data Analysis, Statistics, Machine Learning, Web Scraping, Six Sigma.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/diegopesco/)
 * [Medium](https://medium.com/@dp.alcalde)
+* [Metrica](www.metricabi.com.br)
 
 
 ## Projects (English):
@@ -21,6 +22,8 @@ I am the founder of Metrica and work consistently to make the power of Data Scie
 * **Custom Dashboard to Monitor COVID-19:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Custom_Dashboard_to_Monitor_COVID_19.ipynb)
 * **Credit Card Fraud Detection using Machine Learning Models:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Credit_Card_Fraud_Detection.ipynb)
 * **Churn Prediction for Telecom Company:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Churn_Prediction_for_Telecom_Company.ipynb)
+* **Price Point Analysis using Web Scraped Data:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Price_Point_Analysis_using_Web_Scraped_Data.ipynb)
+
 
 ## Projetos (Português):
 
