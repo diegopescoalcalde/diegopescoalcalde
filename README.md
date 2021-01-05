@@ -23,7 +23,7 @@ I am the founder of Metrica and work consistently to make the power of Data Scie
 * **Credit Card Fraud Detection using Machine Learning Models:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Credit_Card_Fraud_Detection.ipynb)
 * **Churn Prediction for Telecom Company:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Churn_Prediction_for_Telecom_Company.ipynb)
 * **Price Point Analysis using Web Scraped Data:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Price_Point_Analysis_using_Web_Scraped_Data.ipynb)
-
+* **Efficient Frontier Model Development in Python:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Efficient_Frontier_Model.ipynb)
 
 ## Projetos (Português):
 
